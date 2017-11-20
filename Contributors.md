@@ -1,4 +1,5 @@
-﻿- [Juan Dougnac] (http://github.com/jdougnac)
+﻿- [Tung Pham](https://github.com/tpham20908)
+- [Juan Dougnac] (http://github.com/jdougnac)
 - [Baptistemz](https://github.com/baptistemz)
 - [arun](https://github.com/arun99481)
 - [Harsh Mutha](https://github.com/harshm31)
